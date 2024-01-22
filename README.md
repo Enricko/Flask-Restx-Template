@@ -1,19 +1,18 @@
 
 # Flask Rest-X Template
 
-This repository is a template that can be used for everyone to start making API using Flask Rest-X.
+Welcome to the Flask Rest-X Template! This repository serves as a starting point for creating APIs using Flask Rest-X.
 
-See the [license](https://github.com/Enricko/Flask-Restx-Template/blob/main/LICENSE) file for more information, I reserve the right to take down any repository that does not meet these requirements.
+For licensing details, please check the [license file](https://github.com/Enricko/Flask-Restx-Template/blob/main/LICENSE) for more information, Note that I reserve the right to take down any repository that does not comply with these requirements.
 
 ## FAQ
 
-#### Why i make this template?
-I make this template so everyone can easily organize the file and usage. However there is none or i didn't search that deep for Flask Rest-X Template. So i decide make this my on 
+#### Why did I create this template?
+I created this template to simplify the process of organizing files and usage for everyone. While searching, I couldn't find an extensive Flask Rest-X Template, so I decided to create my own.
 
-#### Why the template is so basic and bla-bla...
+#### Why did I create this template?
 
-Well i just make it with my experience as junior programmer and my majority is not python.
-
+The template is designed based on my experience as a junior programmer, and my primary expertise is not in Python.
 
 ## How To Setup
 
