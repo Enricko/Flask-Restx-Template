@@ -27,6 +27,12 @@ git clone https://github.com/Enricko/Flask-Restx-Template.git
 ```
 pip install virtualenv
 ```
+#### Create env folder by using virtualenv command
+```
+virtualenv env
+or
+python virtualenv env
+```
 
 #### Activate the virtual env
 ```
