@@ -33,6 +33,10 @@ virtualenv env
 or
 python virtualenv env
 ```
+#### Then install all module requirements in requirements.txt
+```
+pip install -r requirements.txt
+```
 
 #### Activate the virtual env
 ```
@@ -142,7 +146,7 @@ class Example(Resource):
         return {"message":"Data Inserted."}
 
 # With id parameter
-@ns.route("/example/<integer:id>")
+@ns.route("/example/<int:id>")
 class ExampleSingle(Resource):
     # Get
     @ns.marshal_list_with(example_api_model) # Get Api Model
